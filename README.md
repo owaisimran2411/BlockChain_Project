@@ -38,7 +38,7 @@ export const nftmarketaddress = "***"       //replace '***' with copied nft-mark
 ```bash
 npm run next dev
 ```
-After Terminal 3 is up and running goto the [website](localhost:3000)
+After Terminal 3 is up and running goto the [website](http://localhost:3000)
 
 ## Project Execution
 
